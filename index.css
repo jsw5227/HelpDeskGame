@@ -1,0 +1,25 @@
+#banner {
+	color: white;
+	background-color: maroon;
+	text-align: center; 
+	font-size: 100px; 
+	padding: 15px 0px 15px 0px;  
+	font-weight: bold; 
+	border: 2px solid gold;
+	margin-bottom: 0px; 
+}
+.buttonWell {
+	text-align: center;
+}
+.well {
+	background-color: lightgrey !important; 
+}
+button {
+	padding: 0px 200px 0px 200px;
+	font-size: 50px; 
+}
+canvas {
+	height: 75%;
+	width: 100%;
+	border: 2px solid black; 
+}
